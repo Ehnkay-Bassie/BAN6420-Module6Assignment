@@ -25,8 +25,7 @@
    ```
 
 - Run the script `fashion_mnist_module_assignment.ipynb` script:
-
-fashion_mnist_module_assignment.ipynb
+  fashion_mnist_module_assignment.ipynb
 
 
 ### R
@@ -39,8 +38,7 @@ fashion_mnist_module_assignment.ipynb
    install.packages("reshape2")
    ```
 - Run the `fashion_mnist_cnn_module_assignment.R` script:
-
-`source("fashion_mnist_cnn_module_assignment.R")`
+  `source("fashion_mnist_cnn_module_assignment.R")`
 ---------------------------------------------------------------------
 
 ## Files
