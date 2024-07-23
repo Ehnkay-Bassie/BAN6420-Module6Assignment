@@ -24,8 +24,7 @@
    pip install tensorflow keras numpy matplotlib
    ```
 
-- Run the script `fashion_mnist_module_assignment.ipynb` script:
-  fashion_mnist_module_assignment.ipynb
+- Run the `fashion_mnist_module_assignment.ipynb` script.
 
 
 ### R
@@ -37,8 +36,7 @@
    install.packages("ggplot2")
    install.packages("reshape2")
    ```
-- Run the `fashion_mnist_cnn_module_assignment.R` script:
-  `source("fashion_mnist_cnn_module_assignment.R")`
+- Run the `fashion_mnist_cnn_module_assignment.R` script.
 ---------------------------------------------------------------------
 
 ## Files
